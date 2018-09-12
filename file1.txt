@@ -1,2 +1,2 @@
 This is file 1
-this is the second line of file 1
+this is the second line of file 1This is the line added to master branch to be later merged (in file1)
